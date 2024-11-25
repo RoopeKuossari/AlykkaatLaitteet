@@ -14,7 +14,7 @@ import (
 // Configure Email
 const (
 	EmailSender    = "trustonkuos@hotmail.com"
-	EmailPassword  = "rkjmfin91"
+	EmailPassword  = ""
 	EmailRecipient = "roope.kuossari@centria.fi"
 	SMTPServer     = "smtp-mail.outlook.com"
 	SMTPPort       = 587
